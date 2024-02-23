@@ -1,0 +1,6 @@
+/.idea/
+
+/order-service/target/
+/pizza-service/target/
+/pizza-service/src/main/resources/application.properties
+/order-service/src/main/resources/application.properties
